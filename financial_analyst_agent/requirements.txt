@@ -1,0 +1,13 @@
+langchain-core
+langchain-nvidia-ai-endpoints
+pandas
+langgraph 
+langchain 
+langchain-openai 
+yfinance 
+pandas-ta
+tavily-python 
+python-dotenv 
+pydantic
+fastapi
+uvicorn[standard]

@@ -1,0 +1,9 @@
+# Compose loads a `.env` file in this directory for ${VAR} substitution.
+services:
+  financial-analyst:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      NVIDIA_API_KEY: ${NVIDIA_API_KEY}
+      TAVILY_API_KEY: ${TAVILY_API_KEY}
