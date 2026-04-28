@@ -61,8 +61,6 @@ curl http://localhost:8000/v1/research/AAPL
 curl http://localhost:8000/v1/research/TSLA
 curl http://localhost:8000/v1/research/MSFT
 
-# Indian stocks
-curl http://localhost:8000/v1/research/RELIANCE.NS
 ```
 
 Or open directly in your browser:
